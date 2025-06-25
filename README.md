@@ -1,2 +1,2 @@
 # studynote
-my study note for GNSS,visual SLAM,VLA
+my studynote for GNSS,visual SLAM,VLA
